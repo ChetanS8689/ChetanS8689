@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Sharma
 
-- 🌱 I’m currently studying Computer Science
+- 🌱 I am currently pursuing an M.Tech in Data Science
 
 - 📫 How to reach me 23mcss01@iiitdmj.ac.in
 
